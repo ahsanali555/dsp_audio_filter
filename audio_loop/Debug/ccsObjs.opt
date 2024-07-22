@@ -1,0 +1,1 @@
+"./aic_test_i2c.obj" "./dma_bypass1.obj" "./fir.obj" "./i2s_bypass1.obj" "./i2s_register.obj" "./iir.obj" "./main_bypass1.obj" "./ref_data_bypass1.obj" "./rtc_bypass1.obj" "./vector.obj" "../C5505.cmd" -llibc.a 

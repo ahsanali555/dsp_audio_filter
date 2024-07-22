@@ -1,0 +1,1 @@
+"./fir.obj" "./fir2_asm.obj" "./fir_asm.obj" "./iir.obj" "./main.obj" "../C5505.cmd" -llibc.a 
